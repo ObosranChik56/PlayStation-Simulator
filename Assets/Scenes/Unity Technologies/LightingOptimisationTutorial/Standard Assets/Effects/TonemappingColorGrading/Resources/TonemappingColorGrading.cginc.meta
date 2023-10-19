@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a7e68b07525bc7f459ff03bf6cba782a
+timeCreated: 1453723607
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73575
+  packageName: Walk-through controller
+  packageVersion: 2.3.5
+  assetPath: Assets/Scenes/Unity Technologies/LightingOptimisationTutorial/Standard
+    Assets/Effects/TonemappingColorGrading/Resources/TonemappingColorGrading.cginc
+  uploadId: 471064

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9a8e838691462194482a43a02e424876
+timeCreated: 1436173774
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73575
+  packageName: Walk-through controller
+  packageVersion: 2.3.5
+  assetPath: Assets/Scenes/Unity Technologies/LightingOptimisationTutorial/Standard
+    Assets/Effects/TonemappingColorGrading/Resources/HistogramRender.shader
+  uploadId: 471064

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6c299b7053997354cafc01ce7b37887f
+timeCreated: 1446025079
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41395
+  packageName: Touch Controls Kit - Lite
+  packageVersion: 1.5.5
+  assetPath: Assets/VictorsAssets/TouchControlsKit-Lite/Scripts/Runtime/Controllers/BaseData/Enums.cs
+  uploadId: 228686

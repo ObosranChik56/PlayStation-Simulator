@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7042edf4c4ef07d4d81ebba9ef3aa1c0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41395
+  packageName: Touch Controls Kit - Lite
+  packageVersion: 1.5.5
+  assetPath: Assets/VictorsAssets/TouchControlsKit-Lite/Scripts/Runtime/Controllers/TCKButton.cs
+  uploadId: 228686

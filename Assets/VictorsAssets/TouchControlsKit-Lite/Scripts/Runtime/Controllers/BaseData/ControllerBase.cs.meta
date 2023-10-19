@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8941b970eecd344fb503a02137fb385
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 41395
+  packageName: Touch Controls Kit - Lite
+  packageVersion: 1.5.5
+  assetPath: Assets/VictorsAssets/TouchControlsKit-Lite/Scripts/Runtime/Controllers/BaseData/ControllerBase.cs
+  uploadId: 228686
