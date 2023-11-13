@@ -1,2 +1,1 @@
-# PlayStation-Simulator
-PlayStation Simulator
+simulaor
